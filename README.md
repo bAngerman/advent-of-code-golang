@@ -1,1 +1,1 @@
-# advent-of-code-golang
+# Advent of Code in Golang
